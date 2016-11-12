@@ -7,6 +7,7 @@ Web development stuff
 * [An Introduction to Using JWT Authentication in Rails](https://www.sitepoint.com/introduction-to-using-jwt-in-rails/)
 * [Rails API Testing Best Practices](http://matthewlehner.net/rails-api-testing-guidelines/)
 * [Building the Perfect Rails 5 API Only App](http://sourcey.com/building-the-prefect-rails-5-api-only-app/)
+* [Handling file upload using Ruby on Rails 5 API](http://tutorials.pluralsight.com/ruby-ruby-on-rails/handling-file-upload-using-ruby-on-rails-5-api)
 
 # VUE
 ## Depoyment
